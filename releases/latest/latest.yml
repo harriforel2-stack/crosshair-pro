@@ -1,8 +1,8 @@
-version: 0.1.1
+version: 0.1.2
 files:
-  - url: Crosshair-Pro-Setup-0.1.1.exe
-    sha512: vqm87qCGhGylxwCmDB0W5s4KOxl7Rc4ZfuDEJTuiJpNVBxwV9k3c0IFEvGMHpJ1bm7b5joPDc5rYm4GYb8Qhfw==
-    size: 98503510
-path: Crosshair-Pro-Setup-0.1.1.exe
-sha512: vqm87qCGhGylxwCmDB0W5s4KOxl7Rc4ZfuDEJTuiJpNVBxwV9k3c0IFEvGMHpJ1bm7b5joPDc5rYm4GYb8Qhfw==
-releaseDate: '2026-10-28T04:26:06.000Z'
+  - url: Crosshair-Pro-Setup-0.1.2.exe
+    sha512: G31GWI4y53ILsUa+rGlA0SxBzu7gb8nYRMnpz6OBuaBEGOGp/mx6ZayyV95lyHMoBPbrkN02552KvjB6CwH+Iw==
+    size: 98504853
+path: Crosshair-Pro-Setup-0.1.2.exe
+sha512: G31GWI4y53ILsUa+rGlA0SxBzu7gb8nYRMnpz6OBuaBEGOGp/mx6ZayyV95lyHMoBPbrkN02552KvjB6CwH+Iw==
+releaseDate: '2026-10-29T05:27:57.000Z'
